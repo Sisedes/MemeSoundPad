@@ -1,0 +1,11 @@
+C:\Users\kaan4\source\repos\soundboard\bin\Debug\soundboard.exe.config
+C:\Users\kaan4\source\repos\soundboard\bin\Debug\soundboard.exe
+C:\Users\kaan4\source\repos\soundboard\bin\Debug\soundboard.pdb
+C:\Users\kaan4\source\repos\soundboard\obj\Debug\soundboard.csproj.AssemblyReference.cache
+C:\Users\kaan4\source\repos\soundboard\obj\Debug\soundboard.csproj.SuggestedBindingRedirects.cache
+C:\Users\kaan4\source\repos\soundboard\obj\Debug\soundboard.Form1.resources
+C:\Users\kaan4\source\repos\soundboard\obj\Debug\soundboard.Properties.Resources.resources
+C:\Users\kaan4\source\repos\soundboard\obj\Debug\soundboard.csproj.GenerateResource.cache
+C:\Users\kaan4\source\repos\soundboard\obj\Debug\soundboard.csproj.CoreCompileInputs.cache
+C:\Users\kaan4\source\repos\soundboard\obj\Debug\soundboard.exe
+C:\Users\kaan4\source\repos\soundboard\obj\Debug\soundboard.pdb
